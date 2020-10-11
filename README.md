@@ -10,6 +10,9 @@ About me:
 ⚡ I am more than happy to share my CV with you.
 
 
+Connect with me:
+📫 https://www.linkedin.com/in/nely-nehemia/
+
 
 
 
