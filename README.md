@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-*
+
 About me:
-⚡ B.Sc. in computer science at “Academic College of Tel-Aviv”. 
-⚡ Looking for software development junior position.
-⚡ I am more than happy to share my CV with you.
-*
+*⚡ B.Sc. in computer science at “Academic College of Tel-Aviv”. *
+*⚡ Looking for software development junior position.*
+*⚡ I am more than happy to share my CV with you.*
+
 
 
 
