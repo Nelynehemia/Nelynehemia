@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-
-About me:
-
 ⚡ B.Sc. in computer science at “Academic College of Tel-Aviv”.
-
-Connect with me:
 
 📫 https://www.linkedin.com/in/nely-nehemia/
 
